@@ -33,7 +33,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 |   ✔️   | Vote           |
 |   ✔️   | Invite         |
 |   ✔️   | Revoke         |
-|   ✔️   | Demote         |
+|   ✔️   | Demote         |✩♎︎ꪶ𝑀𝑅♘︎ 𝚲ᏒڵบȠֆƩᏒ🎌ꫂ⁩⁩♎︎✩🇮🇳
 |   ✔️   | Promote        |
 |   ✔️   | Banbye         |
 |   ✔️   | Goodbye        |
